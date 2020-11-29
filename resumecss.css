@@ -1,0 +1,71 @@
+body{
+  margin: 0;
+  background-color: #222831;
+  font-family: 'Kanit',sans-serif;
+}
+.info{
+  position: fixed;
+  background-color: #495464;
+  width: 300px;
+}
+.profile{
+  position: absolute;
+  margin: 0;
+  border: 2px solid white;
+  border-radius: 20%;
+  left:80px;
+  top: 10px;
+  height: 180px;
+}
+p.n{
+  margin: 0;
+  text-align: center;
+}
+.name{
+  margin: 0;
+  position: absolute;
+  text-align: left;
+  top: 220px;
+  left: 10px;
+}
+p{
+  margin: 0;
+  color: white;
+}
+h3{
+  color: #FFDD93;
+  margin: 0;
+}
+h5{
+  margin: 0;
+}
+.ob{
+  position: absolute;
+  background-color: #495464;
+  left:305px;
+  top:0px;
+  width: 1040px;
+  text-align: justify;
+}
+
+td{
+  color: white;
+}
+.quali{
+  text-align: center;
+  border-collapse: collapse;
+  border: 2px solid black;
+
+}
+table{
+  margin: 0 auto 0 auto;
+}
+.ac{
+  left: 05px;
+}
+ul{
+  color: white;
+}
+p.o{
+  text-align: center;
+}
